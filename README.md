@@ -1,1 +1,0 @@
-# gatash.github.io
