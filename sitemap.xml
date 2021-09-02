@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://gatash.com/</loc>
+</url>
+<url>
+  <loc>https://gatash.com/about</loc>
+</url>
+<url>
+  <loc>https://gatash.com/design/</loc>
+</url>
+<url>
+  <loc>https://gatash.com/design/architecture</loc>
+</url>
+<url>
+  <loc>https://gatash.com/design/interiors</loc>
+</url>
+<url>
+  <loc>https://gatash.com/design/products</loc>
+</url>
+<url>
+  <loc>https://gatash.com/cgi/</loc>
+</url>
+<url>
+  <loc>https://gatash.com/cgi/architecture</loc>
+</url>
+<url>
+  <loc>https://gatash.com/cgi/interiors</loc>
+</url>
+<url>
+  <loc>https://gatash.com/cgi/products</loc>
+</url>
+<url>
+  <loc>https://gatash.com/3d-modeling-and-cad/</loc>
+</url>
+<url>
+  <loc>https://gatash.com/3d-modeling-and-cad/architecture</loc>
+</url>
+<url>
+  <loc>https://gatash.com/3d-modeling-and-cad/interiors</loc>
+</url>
+<url>
+  <loc>https://gatash.com/3d-modeling-and-cad/products</loc>
+</url>
+
+
+</urlset>
