@@ -40,7 +40,19 @@ img {  pause: 22000ms;  word-spacing: 0em; font-size: 0; text-align: center; mar
 
 .seDefault { line-height: 1.2; word-spacing: 0.3em;}
 .Main_Structure { background-color: #FFFFFF; margin: 0 auto; text-align: center; }
-.Main_Structure_Inside { pause: 22000ms; word-wrap: break-word; overflow-wrap: break-word; margin: 0 auto; text-align: start; text-align: left;}
+.Main_Structure_Inside { pause: 22000ms; word-wrap: break-word; overflow-wrap: break-word; margin: 0 auto; text-align: start; text-align: left;
+
+    -webkit-transition: .7s linear;
+    -webkit-transition-delay: 7s;
+    -moz-transition: .7s linear;
+    -moz-transition-delay: 7s;
+    -ms-transition: .7s linear;
+    -ms-transition-delay: 7s;
+    -o-transition: .7s linear;
+    -o-transition-delay: 7s;
+    transition: .7s linear;
+    transition-delay: 7s;}
+}
 
 
 
