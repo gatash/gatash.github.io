@@ -11,7 +11,7 @@ body { min-height: 100%; margin: 0; padding: 0; max-width: 100%; line-height: 0.
 .seDefault { color: #585858; font-weight: normal; font-style: normal; text-decoration: none; font-size: 13pt; font-weight: 400; font-family: 'Mukta', sans-serif;}
 a { color: #585858;}
 a { color: inherit; text-decoration: underline;}
-img { word-spacing: 0em; font-size: 0; text-align: center; margin: 0 auto; max-width: 100%; height: auto; border: 0; position: relative; z-index: 9999; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
+img {  pause: 22000ms;  word-spacing: 0em; font-size: 0; text-align: center; margin: 0 auto; max-width: 100%; height: auto; border: 0; position: relative; z-index: 9999; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
 
 
 .images_block_i0, .images_i0, .images_block_i5, .images_i5 { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
@@ -40,7 +40,7 @@ img { word-spacing: 0em; font-size: 0; text-align: center; margin: 0 auto; max-w
 
 .seDefault { line-height: 1.2; word-spacing: 0.3em;}
 .Main_Structure { background-color: #FFFFFF; margin: 0 auto; text-align: center; }
-.Main_Structure_Inside { pause: 7000ms; word-wrap: break-word; overflow-wrap: break-word; margin: 0 auto; text-align: start; text-align: left;}
+.Main_Structure_Inside { pause: 22000ms; word-wrap: break-word; overflow-wrap: break-word; margin: 0 auto; text-align: start; text-align: left;}
 
 
 
