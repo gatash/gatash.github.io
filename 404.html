@@ -32,22 +32,16 @@
 
 var needURL = "https://gatash.com";
 
-if (navigator.userAgent.match(/MSIE\s(?!9.0)/))
-{
-
+if (navigator.userAgent.match(/MSIE\s(?!9.0)/)) {
 var link = document.createElement("a");
-
 link.href = needURL;
-
 document.body.appendChild(link);
-
 link.click();
-}
-
-else { window.location.replace(needURL);}
-
+} else { window.location.replace(needURL);}
 
 
 </script>
-
+</head>
+<body>
+</body>
 </html>
